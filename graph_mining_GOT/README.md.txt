@@ -1,0 +1,1 @@
+Este exercicio mapeia as interações e personagens que mais aparecem em Game Of thrones na primeira e na 8 temporada
